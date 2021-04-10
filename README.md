@@ -1,2 +1,2 @@
-C++
-some useful c++ codes
+C/C++
+some useful C/C++ codes
